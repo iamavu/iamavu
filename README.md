@@ -1,12 +1,14 @@
 ```c
 #include <awesomeness.h>
-#include <consistency.h>
 
-void whoami()
+int whoami(void)
 {
-    char identity[] = "computer security researcher";
-    char likes[] = "reverse-engineering, binary-exploitation, python, c";
+    char name[] = "avantika"
+    char username[] = "@iamavu"
+    char identity[] = "security researcher";
     char pronouns[] = "she/her";
+
+    return 1337;
 }
 ```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamavu) 
